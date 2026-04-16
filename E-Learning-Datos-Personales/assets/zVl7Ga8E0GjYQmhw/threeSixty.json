@@ -1,0 +1,32 @@
+{
+  "version": "3.84.31647.0",
+  "course_id": "5ys2SFvMPNL",
+  "title": "Proteccion de datos 01",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Escena sin título"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6Usd6UWpdWM",
+      "title": "Arrastrar y soltar",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5VqnArhLZlS",
+      "title": "Diapositiva sin título",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
